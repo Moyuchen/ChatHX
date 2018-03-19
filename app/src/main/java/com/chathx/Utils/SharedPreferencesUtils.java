@@ -4,7 +4,7 @@ import android.content.Context;
 import android.content.SharedPreferences;
 
 /**
- * User: 张亚博
+ * 
  * Date: 2017-12-12 18:32
  * Description：
  */
